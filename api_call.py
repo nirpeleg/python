@@ -1,5 +1,6 @@
 import requests
 import json
+print("Nir")
 
 url = "http://127.0.0.1:8000/languages"
 
